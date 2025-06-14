@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sudarshan Gore</h1>
-<h3 align="left">Welcome to my little corner of GitHub!
+<h3 align="left">Welcome to my little corner of GitHub!<br>
 I’m passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming (and a lot more fun). <br>
   <br>
 Here, you'll find: <br>
